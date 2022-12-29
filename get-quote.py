@@ -1,11 +1,16 @@
+import random
+
 def main():
-  # print("Keep it logically awesome.")
+  # Read the lines from the quotes file and store them in a list
+  with open("quotes.txt") as f:
+    quotes = f.readlines()
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+  # Select a random quote from the list
+  quote = random.choice(quotes)
 
-  #print(quotes)
+  # Print the quote
+  print(quote)
 
 if __name__== "__main__":
   main()
+  
