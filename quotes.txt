@@ -12,3 +12,37 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Think first of the user experience
+Provide progressive disclosure
+Avoid premature optimization
+Prototype to learn
+Estimate to avoid surprises
+It’s easier to ask forgiveness than permission
+Keep it reversible
+There’s no silver bullet
+Every system is in equilibrium
+Learn from history, but don’t repeat it
+Don’t ignore that which is inconvenient
+Encourage experimentation
+Decouple components loosely
+Documentation is a love letter that you write to your future self
+The value of a prototype is in the education it gives you, not in the code itself
+Don’t let the perfect be the enemy of the good
+Don’t panic
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don’t have to write makes you a great one
+Programmers are the most important part of a project
+The problem with troubleshooting is that trouble shoots back
+Optimize globally
+Program close to the problem domain
+Provide mechanisms rather than policie
+Design for participation
+Don’t use exceptions to indicate absence
+Use assertions to prevent the impossible
+Understand the problem before you start to solve it
+A complex system that works is invariably found to have evolved from a simple system that works
+The best way to get a project done faster is to start sooner
+If you can’t measure it, you can’t improve it
+The best way to solve a problem is to avoid having the problem in the first place
+If you have a procedure with 10 parameters, you probably missed some
+Plan to throw one away; you will, anyhow
+Don’t document bad code – rewrite it
